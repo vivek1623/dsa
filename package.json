@@ -1,0 +1,22 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "implementation of data structure and algorithm using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek1623/dsa.git"
+  },
+  "keywords": [
+    "dsa"
+  ],
+  "author": "vivek vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek1623/dsa/issues"
+  },
+  "homepage": "https://github.com/vivek1623/dsa#readme"
+}
