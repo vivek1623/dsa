@@ -13,7 +13,7 @@ class SLL {
     this.size = 0
   }
 
-  size() {
+  getSize() {
     return this.size
   }
 
@@ -21,7 +21,7 @@ class SLL {
     if (this.head === null) console.log("Singly Linked List is Empty")
     else {
       let current = this.head
-      while (current){
+      while (current) {
         console.log(current.value)
         current = current.next
       }
